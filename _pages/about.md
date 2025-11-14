@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in Internal Medicine(Nephrology) at the [Peking university first hospital](https://www.pkufh.com/). I am fortunate to be advised by [Prof. Zhangluxia]. My research interests include AI for Prevention and treatment of chronic kidney disease, exploration of markers for the transition from acute kidney injury to chronic kidney disease.
 
-You can find my CV here: [Guozhaojing's Curriculum Vitae](https://github.com/GuoZJ277/academicpages.github.io/tree/master/assets/assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Guozhaojing's Curriculum Vitae](https://github.com/GuoZJ277/academicpages.github.io/tree/master/assets/assets/Curriculum Vitae.pdf).
 
 [Email](mailto:guozhaojing25@stu.pku.edu.cn) / [Github](https://github.com/GuoZJ277).
 
